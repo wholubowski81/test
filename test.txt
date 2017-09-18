@@ -1,5 +1,6 @@
 line master
 line 2
-line 2,5
+line conflict 2
 line 3
-lina a
+line a
+line new
