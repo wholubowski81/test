@@ -1,6 +1,6 @@
 line master
 line 2
-line conflict 2
+line no conflict
 line 3
 line a
 line new
